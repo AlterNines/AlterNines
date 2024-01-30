@@ -1,6 +1,6 @@
 - 🍊 Hi, I’m @AlterNines 👻
 - 🖥️ I’m interested in Python Programming
-- 💿 I’m currently learning repairing electronics
+- 💿 I’m currently learning Repairing Electronics
 - 📫 How to reach me ...
 - ⚡ Fun fact: ...
 
