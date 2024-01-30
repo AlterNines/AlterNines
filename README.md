@@ -1,4 +1,4 @@
-- 🍊 Hi, I’m @AlterNines
+- 🍊 Hi, I’m @AlterNines 👻
 - 🖥️ I’m interested in Python Programming
 - 💿 I’m currently learning repairing electronics
 - 📫 How to reach me ...
