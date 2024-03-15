@@ -1,7 +1,7 @@
 - 🍊 Hi, I’m @AlterNines 👻
 - 🖥️ I’m interested in Python Programming
 - 💿 I’m currently learning Repairing Electronics
-- 📫 How to reach me ...
+- 📫 How to reach me here: alternines.nine@gmail.com
 - ⚡ Fun fact: ...
 
 <!---
