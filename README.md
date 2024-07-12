@@ -1,4 +1,4 @@
-- 🍊 Hi, I’m @Nines九 👻
+- 🍊 Hi, I’m @Nines九
 - 🖥️ I’m interested in Python Programming
 - 💿 I’m currently learning Repairing Electronics
 - 📫 How to reach me here: alternines.nine@gmail.com
