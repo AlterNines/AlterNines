@@ -1,7 +1,7 @@
 - 🍊 Hi, I’m @Nines九
 - 🖥️ I’m interested in Python Programming
 - 💿 I’m currently learning Repairing Electronics
-- 📫 How to reach me here: alternines.nine@gmail.com
+- 📫 How to reach me here: nines.kyu.jp@gmail.com
 - ⚡ Fun fact: ...
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alternines&layout=compact)
