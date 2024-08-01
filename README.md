@@ -4,7 +4,6 @@
 - 📫 How to reach me here: alternines.nine@gmail.com
 - ⚡ Fun fact: ...
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alternines)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alternines&layout=compact)
 <!---
 AlterNines/AlterNines is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
